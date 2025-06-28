@@ -1,0 +1,51 @@
+id,name,company,industry,size,source,created_at
+1,Hannah Lee,Mason and Sons,Technology,330,Email,2025-06-03T22:51:02.520231+00:00Z
+2,Barry Johnson,Williamson-Patterson,Healthcare,492,Organic,2025-06-14T22:51:02.520231+00:00Z
+3,Mary Barrett,"Clark, Jennings and Thompson",Healthcare,271,Referral,2025-06-16T22:51:02.521223+00:00Z
+4,Donna Friedman,Armstrong PLC,Healthcare,490,Email,2025-06-22T22:51:02.522231+00:00Z
+5,Monique Powell,"Vasquez, Brown and Bailey",Manufacturing,229,PPC,2025-06-10T22:51:02.522231+00:00Z
+6,Marc Bernard,"Robinson, Morales and Combs",Healthcare,355,Referral,2025-06-21T22:51:02.523234+00:00Z
+7,Felicia Sanchez,"West, Miranda and Bray",Finance,458,PPC,2025-06-19T22:51:02.523234+00:00Z
+8,Jessica Garza,Montgomery-Turner,Manufacturing,483,Email,2025-06-26T22:51:02.524231+00:00Z
+9,Alison Solis,Dunn-Harris,Finance,270,Organic,2025-06-10T22:51:02.524231+00:00Z
+10,Ashley Adams,"Schmidt, Andrews and Hoffman",Manufacturing,132,Email,2025-06-09T22:51:02.525237+00:00Z
+11,Megan Morales,Herrera-Barry,Finance,151,Email,2025-06-10T22:51:02.525237+00:00Z
+12,Jessica Tanner,Atkins-Lopez,Manufacturing,210,Organic,2025-06-16T22:51:02.525237+00:00Z
+13,Kayla King,Fuentes-Bowen,Finance,493,Email,2025-06-14T22:51:02.526227+00:00Z
+14,David Everett,Edwards Inc,Finance,269,PPC,2025-06-09T22:51:02.526227+00:00Z
+15,Heather Hoffman,Calhoun-Brown,Technology,347,Referral,2025-05-30T22:51:02.527221+00:00Z
+16,William Harris,Hawkins Inc,Manufacturing,500,Referral,2025-06-13T22:51:02.527221+00:00Z
+17,Victoria Gonzalez,Berger-Le,Finance,112,Referral,2025-06-06T22:51:02.527221+00:00Z
+18,James Carter,Wolfe PLC,Technology,366,PPC,2025-06-13T22:51:02.528221+00:00Z
+19,Carmen Norman,Hernandez-Turner,Manufacturing,81,PPC,2025-05-28T22:51:02.528221+00:00Z
+20,Jesse Johnson,Gonzalez-White,Technology,394,Email,2025-06-17T22:51:02.528221+00:00Z
+21,Stacey Klein,"Smith, Cook and Sanchez",Manufacturing,413,Organic,2025-06-08T22:51:02.529220+00:00Z
+22,James Montoya,Petersen-Johnson,Healthcare,204,PPC,2025-06-26T22:51:02.529220+00:00Z
+23,Anthony Cochran,"Figueroa, Hughes and Marshall",Manufacturing,395,Referral,2025-06-16T22:51:02.530220+00:00Z
+24,Frank Duncan,Yates PLC,Healthcare,431,Email,2025-06-02T22:51:02.530220+00:00Z
+25,Fred Hoover,Green PLC,Healthcare,41,PPC,2025-06-13T22:51:02.530220+00:00Z
+26,Joel Lawson,"Harvey, Downs and Burke",Technology,99,Referral,2025-06-15T22:51:02.531222+00:00Z
+27,Christy Velasquez,Bell-Rogers,Technology,389,Email,2025-06-07T22:51:02.531222+00:00Z
+28,Brandon Smith,"Johnson, Neal and Stephens",Technology,15,Organic,2025-06-18T22:51:02.532221+00:00Z
+29,Penny Humphrey,Jones-Coleman,Finance,69,PPC,2025-06-22T22:51:02.532221+00:00Z
+30,Kenneth Perez,"Hill, Robles and Jones",Manufacturing,406,Organic,2025-06-09T22:51:02.533221+00:00Z
+31,Robin Taylor,"Ortiz, Buchanan and Turner",Technology,135,Email,2025-05-29T22:51:02.533221+00:00Z
+32,Ryan Burton,Greene-Montes,Technology,244,PPC,2025-06-05T22:51:02.534221+00:00Z
+33,Maurice Long,Edwards-Pruitt,Healthcare,496,Referral,2025-06-22T22:51:02.534221+00:00Z
+34,Jeffrey Ross,Francis-Briggs,Healthcare,217,Organic,2025-06-20T22:51:02.534221+00:00Z
+35,Eileen Snow,"Smith, Berg and Weaver",Finance,275,Referral,2025-06-08T22:51:02.535222+00:00Z
+36,Antonio Hayes,Miller-Crane,Technology,165,Email,2025-06-06T22:51:02.535222+00:00Z
+37,Brenda Wright,Wright-Ramos,Technology,185,Referral,2025-06-13T22:51:02.536247+00:00Z
+38,Matthew Elliott,Hawkins-Walsh,Technology,493,Organic,2025-06-26T22:51:02.536247+00:00Z
+39,Jennifer Sweeney,Lewis-Gonzales,Manufacturing,218,PPC,2025-06-10T22:51:02.536247+00:00Z
+40,Luis Miller,Wong-Keith,Technology,379,Email,2025-05-29T22:51:02.537226+00:00Z
+41,Richard Sanders,"Russell, James and Wood",Healthcare,347,Email,2025-06-23T22:51:02.537226+00:00Z
+42,Justin Monroe,Finley Group,Technology,405,Referral,2025-06-12T22:51:02.538225+00:00Z
+43,Rachel Ward,Miller-Zhang,Technology,20,Referral,2025-06-16T22:51:02.538225+00:00Z
+44,Patricia Howell,Black-Kelley,Technology,343,PPC,2025-06-04T22:51:02.538225+00:00Z
+45,Lori Miller,Buchanan-Lawson,Technology,132,PPC,2025-06-15T22:51:02.539221+00:00Z
+46,Thomas Moore,Lewis Group,Manufacturing,49,Referral,2025-06-11T22:51:02.539221+00:00Z
+47,Michelle Bowman,Brown Inc,Technology,91,Referral,2025-06-21T22:51:02.540221+00:00Z
+48,Christopher Hamilton,Alvarez LLC,Manufacturing,353,Organic,2025-06-19T22:51:02.540221+00:00Z
+49,Dr. Aaron Black,"Stevens, Adams and Beasley",Finance,119,PPC,2025-06-07T22:51:02.540221+00:00Z
+50,Jessica Johnson,"Duncan, Morrison and Paul",Finance,222,Email,2025-05-30T22:51:02.541220+00:00Z
