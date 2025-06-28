@@ -1,7 +1,5 @@
-Here is your complete and well-structured `README.md` file based on all your requirements and project details:
 
 ---
-
 ```markdown
 # 🚀 Lead Qualifier Dashboard
 
@@ -19,8 +17,7 @@ A full-stack application designed to help startup sales teams **qualify** and **
 
 ## 📁 Project Structure
 
-```
-
+```bash
 lead-qualifier/
 ├── frontend/                 # React + TS frontend (Vite)
 │   ├── src/
