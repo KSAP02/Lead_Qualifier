@@ -20,21 +20,28 @@ lead-qualifier/
 ├── frontend/                 # React + TS frontend (Vite)
 │   ├── src/
 │   │   ├── components/       # Filters, LeadTable, LeadChart
-│   │   └── services/         # api.ts for API calls
-|   |   └── App.tsx
-│   │   └── main.tsx
+│   │   ├── services/         # api.ts for API calls
+│   │   ├── App.tsx           # Main dashboard component
+│   │   └── main.tsx          # React entry point
 │   ├── package.json
 │   ├── vite.config.ts
+│   └── tsconfig.json
+│
 ├── backend/                  # FastAPI backend
-│   ├── app.py                # Main API routes
-│   ├── models.py             # SQLAlchemy models
-│   ├── database.py           # DB setup (engine/session)
-│   ├── schemas.py            # Pydantic response/request schemas
-│   ├── analytics.py          # SQL-based reports & insights
-│   ├── lead_qualification.db # SQLite database
-│   
-└── README.md
-└── requirements.txt
+│   ├── app.py                # API routes (leads + events)
+│   ├── models.py             # SQLAlchemy models (Lead, Event)
+│   ├── database.py           # DB engine/session setup
+│   ├── schemas.py            # Pydantic models for request/response
+│   ├── analytics.py          # Analytics reporting logic
+│   ├── lead_qualification.db # SQLite database file
+│
+├── data/                     # Lead generation and sample data
+│   ├── leads.csv             # Sample raw lead data
+│   └── generate_data.py      # Script to generate leads into DB
+│
+├── requirements.txt          # Backend dependencies
+└── README.md                 # Project documentation
+
 
 ````
 
