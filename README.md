@@ -12,7 +12,7 @@ A full-stack application designed to help startup sales teams **qualify** and **
 - 🗄️ **Database**: SQLite
 - 📊 **Data Analysis**: SQL queries + custom reports
 - 🤖 **LLM Integration**: Enrich leads with quality & company summary
-
+```
 ---
 
 ## 📁 Project Structure
