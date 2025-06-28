@@ -3,7 +3,8 @@
 # 🚀 Lead Qualifier Dashboard
 
 A full-stack application designed to help startup sales teams **qualify** and **analyze demo-request leads**.
-[Project Demo Video](https://www.loom.com/share/09eb6f4ac87b42fe854963e1279a1ffe?sid=3a647c36-4192-45b8-b40d-101c31cb2912)
+
+[Lead Qualifier Project Demo Video](https://www.loom.com/share/09eb6f4ac87b42fe854963e1279a1ffe?sid=3a647c36-4192-45b8-b40d-101c31cb2912)
 
 ## 🧩 Tech Stack
 
